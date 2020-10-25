@@ -7,6 +7,8 @@ Welcome to test the prototype of our visualization tool:
 
 http://47.93.42.104/covid/64 (Alive)
 
+http://47.93.42.104/covid/218 (Dead)
+
 Health Status Trajectory and High-risk Biomarkers Visualization:
 
 https://anonymous20201020.github.io/MTFed-DeadGraph/
