@@ -17,6 +17,9 @@ Architecture of MTFed
 
 ![Architecture of MTFed](https://raw.githubusercontent.com/anonymous20201020/MTFed/main/architecture%20of%20MTFed.png)
 
+Federal Collaborators of MTFed
+
+![Federal Collaborators of MTFed](https://raw.githubusercontent.com/anonymous20201020/MTFed/main/federal%20collaborators%20of%20MTFed.png)
 
 Federated Clustering
 
