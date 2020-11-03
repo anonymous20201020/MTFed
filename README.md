@@ -31,7 +31,7 @@ Federated Clustering
 Table 4. Avg. LOS risk of clusters the sample patient visit. (Errata)
 
 | Record | Date      | Cluster ID | Avg. LOS Risk | #Records in TJH | #Records in HMH |      Important Features      |
-| :----: | --------- | ---------- | ------------- | --------------- | :-------------: | :--------------------------: |
+| :----: | :-------: | :--------: | :-----------: | :-------------: | :-------------: | :--------------------------: |
 |   1    | Feb.5     | 7          | 34.586        | 10              |       57        |   fibrinogen, serum sodium   |
 |   2    | Feb.5     | 13         | 32.577        | 24              |       68        | fibrinogen, lymphocyte count |
 |   3    | Feb.5     | 37         | 15.054        | 35              |       57        |  ferritin, lymphocyte count  |
