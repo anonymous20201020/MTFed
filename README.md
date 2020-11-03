@@ -15,7 +15,7 @@ https://anonymous20201020.github.io/MTFed-DeadGraph/
 
 Architecture of MTFed
 
-![Architecture of MTFed](https://raw.githubusercontent.com/anonymous20201020/MTFed/main/architecture%20of%20MTFed.png)
+![Architecture of MTFed](https://raw.githubusercontent.com/anonymous20201020/MTFed/main/architecture%20of%20MTFed.)
 
 Federal Collaborators of MTFed
 
