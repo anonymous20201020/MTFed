@@ -28,25 +28,25 @@ Federated Clustering
 
 ![Federated Clustering](https://raw.githubusercontent.com/anonymous20201020/MTFed/main/federated%20clustering.png)
 
-Table 4. Avg. LOS risk of clusters the sample patient visit. (Errata)
+Table 4. Avg. LOS risk score of clusters visited by the case patient 64
 
-| Record | Date      | Cluster ID | Avg. LOS Risk | #Records in TJH | #Records in HMH |      Important Features      |
-| :----: | :-------: | :--------: | :-----------: | :-------------: | :-------------: | :--------------------------: |
-|   1    | Feb.5     | 7          | 34.586        | 10              |       57        |   fibrinogen, serum sodium   |
-|   2    | Feb.5     | 13         | 32.577        | 24              |       68        | fibrinogen, lymphocyte count |
-|   3    | Feb.5     | 37         | 15.054        | 35              |       57        |  ferritin, lymphocyte count  |
-|   4    | Feb.5     | 17         | 15.487        | 73              |       58        |  ferritin, lymphocyte count  |
-|   5    | Feb.5     | 23         | 16.571        | 97              |       55        | fibrinogen, lymphocyte count |
-|   6    | Feb.10    | 20         | 14.719        | 133             |       59        |      ferritin, albumin       |
-|   7    | Feb.11    | 76         | 12.629        | 221             |       53        |         FDP, albumin         |
-|   8    | Feb.11    | 4          | 8.421         | 236             |       89        |  FDP, prothrombin activity   |
-|   9    | Feb.11    | 15         | 8.056         | 273             |       90        |  FDP, prothrombin activity   |
-| 10-12  | Feb.11    | 46         | 6.739         | 267             |       73        |     FDP, eosinophils(%)      |
-| 13-15  | Feb.11-12 | 47         | 6.514         | 268             |        0        |     FDP, eosinophils(%)      |
-| 16-17  | Feb.14-16 | 22         | 4.887         | 2589            |        0        |    FDP, eosinophils count    |
-| 18-20  | Feb.16    | 64         | 3.724         | 285             |        0        |    FDP, eosinophils count    |
-| 21-24  | Feb.16-18 | 39         | 2.166         | 171             |        0        |    FDP, eosinophils count    |
-|   25   | Feb.18    | 28         | 1.973         | 6               |       279       |        TCO2V, calcium        |
+| Record | Date      | Cluster ID | Condition          | Avg. LOS Risk | #Records in TJH | #Records in HMH |      Important Features      |
+| :----: | :-------: | :--------: | :----------------: | :-----------: | :-------------: | :-------------: | :--------------------------: |
+|   1    | Feb.5     | 7          | Medium Risk        | 34.586        | 10              |       57        |   fibrinogen, serum sodium   |
+|   2    | Feb.5     | 13         | Medium Risk        | 32.577        | 24              |       68        | fibrinogen, lymphocyte count |
+|   3    | Feb.5     | 37         | Low Risk           | 15.054        | 35              |       57        |  ferritin, lymphocyte count  |
+|   4    | Feb.5     | 17         | Low Risk           | 15.487        | 73              |       58        |  ferritin, lymphocyte count  |
+|   5    | Feb.5     | 23         | Low Risk           | 16.571        | 97              |       55        | fibrinogen, lymphocyte count |
+|   6    | Feb.10    | 20         | Low Risk           | 14.719        | 133             |       59        |      ferritin, albumin       |
+|   7    | Feb.11    | 76         | Low Risk           | 12.629        | 221             |       53        |         FDP, albumin         |
+|   8    | Feb.11    | 4          | Low Risk           | 8.421         | 236             |       89        |  FDP, prothrombin activity   |
+|   9    | Feb.11    | 15         | Low Risk           | 8.056         | 273             |       90        |  FDP, prothrombin activity   |
+| 10-12  | Feb.11    | 46         | Close to discharge | 6.739         | 267             |       73        |     FDP, eosinophils(%)      |
+| 13-15  | Feb.11-12 | 47         | Close to discharge | 6.514         | 268             |        0        |     FDP, eosinophils(%)      |
+| 16-17  | Feb.14-16 | 22         | Close to discharge | 4.887         | 2589            |        0        |    FDP, eosinophils count    |
+| 18-20  | Feb.16    | 64         | Close to discharge | 3.724         | 285             |        0        |    FDP, eosinophils count    |
+| 21-24  | Feb.16-18 | 39         | Close to discharge | 2.166         | 171             |        0        |    FDP, eosinophils count    |
+|   25   | Feb.18    | 28         | Close to discharge | 1.973         | 6               |       279       |        TCO2V, calcium        |
 
 
 ## Requirements
